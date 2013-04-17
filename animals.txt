@@ -1,4 +1,8 @@
 chèvre
 poney
 anaconda
-
+LApin
+chat
+pigeon
+baudet
+blaireau
