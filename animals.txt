@@ -6,3 +6,4 @@ chat
 pigeon
 baudet
 blaireau
+truite
